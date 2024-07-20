@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "gpboost"]
+	path = gpboost
+	url = https://github.com/cran/gpboost
+[submodule "spate"]
+	path = spate
+	url = https://github.com/fabsig/spate
